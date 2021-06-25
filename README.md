@@ -17,8 +17,9 @@ that will not be taught is to `self-study` it. </h6>
 <h6>I have a bit of experience in C++, Javascript, C# (Very Little), HTML, CSS. Most of the programming languages I've stated is the ones that was taught in my college. Although, if
 I am going to be honest, I had to self-study most of it since... I don't know... its just that they did not really teach it well. (Me and most of my blockmates had a hard time). </h6>
 
-<h2>💻 Things I do: </h2>
-
+<h2>💻 What I Am Working On At The Moment: </h2>
+<h6><ul>
+  <li>HTML with Bootstrap, I develop simple websites for students who are well... Unfortuante I guess. As long as they pay up, its all good business.</h6>
 <!---
 chaos339/chaos339 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
